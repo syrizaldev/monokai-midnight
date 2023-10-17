@@ -1,0 +1,21 @@
+# Build Files
+.vscode
+node_modules
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Log Files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Env Files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
