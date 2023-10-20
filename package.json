@@ -23,17 +23,14 @@
 		"theme",
 		"monokai",
 		"midnight",
-		"dark-theme",
 		"color-theme",
-		"vscode-theme",
-		"monokai-theme",
-		"midnight-theme"
+		"vscode-theme"
 	],
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai Midnight",
 				"uiTheme": "vs-dark",
+				"label": "Monokai Midnight",
 				"path": "./themes/monokai-midnight.json"
 			}
 		]

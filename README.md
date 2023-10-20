@@ -20,7 +20,7 @@
 -  Theme are currently under development and improvement.
 -  If you found any problem or have a future request, please open an
    [**issue here**](https://github.com/syrizaldev/monokai-midnight/issues).
--  Thank you for the contributions and have a nice day.
+-  Thanks for the contributions and have a nice day.
 
 ## License
 
