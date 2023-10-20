@@ -3,7 +3,7 @@
 	"icon": "assets/logo.png",
 	"displayName": "Monokai Midnight",
 	"description": "Minimalist Dark Monokai-Inspired VSCode Theme",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "syrizaldev",
 	"license": "MIT",
 	"engines": {
