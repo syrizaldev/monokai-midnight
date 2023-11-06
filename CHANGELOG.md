@@ -3,6 +3,12 @@
 All notable changes to the **"Monokai Midnight"** theme extension will be documented in this file.
 Check [**Keep a Changelog**](https://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v1.2.0
+
+-  Customize border colors
+-  Remove unnecessary borders
+-  Update readme file
+
 ## v1.1.0
 
 -  Customize panel colors

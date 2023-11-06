@@ -33,7 +33,7 @@
 		"pickerGroup.foreground": "#424242",
 		"activityBar.background": "#121212",
 		"activityBar.foreground": "#ebebeb",
-		"activityBar.border": "#00000000",
+		"activityBar.border": "#030303",
 		"activityBar.activeBorder": "#0084db",
 		"activityBar.activeBackground": "#0d0d0d",
 		"activityBar.inactiveForeground": "#737373",
@@ -46,19 +46,19 @@
 		"breadcrumb.activeSelectionForeground": "#ebebeb",
 		"button.background": "#303030",
 		"button.foreground": "#ebebeb",
-		"button.border": "#00000000",
+		"button.border": "#424242",
 		"button.hoverBackground": "#424242",
 		"button.secondaryForeground": "#ebebeb",
 		"button.secondaryBackground": "#303030",
 		"button.secondaryHoverBackground": "#424242",
 		"checkbox.background": "#303030",
 		"checkbox.foreground": "#ebebeb",
-		"checkbox.border": "#00000000",
+		"checkbox.border": "#424242",
 		"checkbox.selectBackground": "#424242",
 		"checkbox.selectBorder": "#00000000",
 		"dropdown.background": "#303030",
 		"dropdown.foreground": "#ebebeb",
-		"dropdown.border": "#00000000",
+		"dropdown.border": "#424242",
 		"dropdown.listBackground": "#303030",
 		"dropdown.listBorder": "#00000000",
 		"debugToolBar.background": "#303030",
@@ -101,7 +101,7 @@
 		"editorWidget.background": "#1a1a1a",
 		"editorWidget.foreground": "#ebebeb",
 		"editorWidget.border": "#00000000",
-		"editorWidget.resizeBorder": "#030303",
+		"editorWidget.resizeBorder": "#00000000",
 		"editorBracketMatch.background": "#303030",
 		"editorBracketMatch.border": "#424242",
 		"editorCodeLens.foreground": "#424242",
@@ -158,7 +158,7 @@
 		"gitDecoration.stageModifiedResourceForeground": "#d2af79",
 		"input.background": "#303030",
 		"input.foreground": "#ebebeb",
-		"input.border": "#030303",
+		"input.border": "#00000000",
 		"input.placeholderForeground": "#737373",
 		"inputOption.activeForeground": "#ebebeb",
 		"inputOption.activeBackground": "#404040",
@@ -221,7 +221,7 @@
 		"peekViewTitleDescription.foreground": "#ebebeb",
 		"peekViewTitleLabel.foreground": "#ebebeb",
 		"panel.background": "#161616",
-		"panel.border": "#00000000",
+		"panel.border": "#030303",
 		"panelTitle.activeBorder": "#00000000",
 		"panelTitle.activeForeground": "#ebebeb",
 		"panelTitle.inactiveForeground": "#737373",
@@ -232,7 +232,7 @@
 		"panelSectionHeader.border": "#00000000",
 		"sideBar.background": "#0d0d0d",
 		"sideBar.foreground": "#ebebeb",
-		"sideBar.border": "#00000000",
+		"sideBar.border": "#030303",
 		"sideBar.dropBackground": "#262626",
 		"sideBarSectionHeader.border": "#00000000",
 		"sideBarSectionHeader.foreground": "#ebebeb",
@@ -287,7 +287,7 @@
 		"tab.unfocusedInactiveModifiedBorder": "#424242",
 		"terminal.background": "#161616",
 		"terminal.foreground": "#ebebeb",
-		"terminal.border": "#030303",
+		"terminal.border": "#00000000",
 		"terminalCursor.background": "#303030",
 		"terminalCursor.foreground": "#ebebeb",
 		"titleBar.activeBackground": "#161616",
@@ -1427,7 +1427,11 @@
 		},
 		{
 			"name": "php call-function",
-			"scope": ["meta.function-call.php", "meta.function-call.object.php", "meta.function-call.static.php"],
+			"scope": [
+				"meta.function-call.php",
+				"meta.function-call.object.php",
+				"meta.function-call.static.php"
+			],
 			"settings": {
 				"foreground": "#a0e01f"
 			}
@@ -1488,7 +1492,11 @@
 		},
 		{
 			"name": "php logical/bitwise operator",
-			"scope": ["keyword.operator.logical.php", "keyword.operator.bitwise.php", "keyword.operator.arithmetic.php"],
+			"scope": [
+				"keyword.operator.logical.php",
+				"keyword.operator.bitwise.php",
+				"keyword.operator.arithmetic.php"
+			],
 			"settings": {
 				"foreground": "#fa2976"
 			}
@@ -1882,7 +1890,11 @@
 		},
 		{
 			"name": "Markdown underscore-style headers",
-			"scope": ["entity.name.label.cs", "markup.heading.setext.1.markdown", "markup.heading.setext.2.markdown"],
+			"scope": [
+				"entity.name.label.cs",
+				"markup.heading.setext.1.markdown",
+				"markup.heading.setext.2.markdown"
+			],
 			"settings": {
 				"foreground": "#fd9926"
 			}

@@ -1,7 +1,6 @@
 # Monokai Midnight
 
 -  Minimalist Dark Monokai-Inspired Theme for Visual Studio Code.
--  Optimized for Web Programming Languages and Development.
 -  Remove Unnecessary Borders and Improve Syntax Highlighting Colors.
 
 ## Installation
@@ -14,7 +13,7 @@
 
 ## Screenshot
 
-![Monokai Midnight Theme](assets/screenshot.png)
+![Monokai Midnight Theme](assets/midnight-theme.png)
 
 ## Contributing
 

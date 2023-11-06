@@ -1,9 +1,9 @@
 {
 	"name": "monokai-midnight",
-	"icon": "assets/logo.png",
 	"displayName": "Monokai Midnight",
+	"icon": "assets/midnight-logo.png",
 	"description": "Minimalist Dark Monokai-Inspired VSCode Theme",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"publisher": "syrizaldev",
 	"license": "MIT",
 	"engines": {
@@ -21,11 +21,11 @@
 	},
 	"keywords": [
 		"theme",
+		"vscode",
 		"monokai",
-		"midnight",
+		"dark-theme",
 		"color-theme",
-		"vscode-theme",
-		"monokai-theme"
+		"vscode-theme"
 	],
 	"contributes": {
 		"themes": [
