@@ -2,8 +2,8 @@
 	"name": "monokai-midnight",
 	"displayName": "Monokai Midnight",
 	"icon": "assets/midnight-logo.png",
-	"description": "Minimalist Dark Monokai-Inspired VSCode Theme",
-	"version": "1.2.0",
+	"description": "Minimalist dark monokai-inspired vscode theme",
+	"version": "1.3.0",
 	"publisher": "syrizaldev",
 	"license": "MIT",
 	"engines": {
@@ -32,7 +32,7 @@
 			{
 				"uiTheme": "vs-dark",
 				"label": "Monokai Midnight",
-				"path": "./theme/midnight.json"
+				"path": "./theme/midnight-theme.json"
 			}
 		]
 	},

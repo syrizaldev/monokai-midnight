@@ -13,7 +13,7 @@
 
 ## Screenshot
 
-![Monokai Midnight Theme](assets/midnight-theme.png)
+![Monokai Midnight Theme](assets/midnight-demo.png)
 
 ## Contributing
 
