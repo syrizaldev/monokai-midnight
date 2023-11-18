@@ -1,46 +1,46 @@
 {
-	"name": "monokai-midnight",
-	"displayName": "Monokai Midnight",
-	"icon": "assets/midnight-logo.png",
-	"description": "Minimalist dark monokai-inspired vscode theme",
-	"version": "1.3.0",
-	"publisher": "syrizaldev",
-	"license": "MIT",
-	"engines": {
-		"vscode": "^1.45.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"author": {
-		"name": "Syahrizal"
-	},
-	"galleryBanner": {
-		"theme": "dark",
-		"color": "#1a1a1a"
-	},
-	"keywords": [
-		"theme",
-		"vscode",
-		"monokai",
-		"dark-theme",
-		"color-theme",
-		"vscode-theme"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"uiTheme": "vs-dark",
-				"label": "Monokai Midnight",
-				"path": "./theme/midnight-theme.json"
-			}
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/syrizaldev/monokai-midnight"
-	},
-	"bugs": {
-		"url": "https://github.com/syrizaldev/monokai-midnight/issues"
-	}
+  "name": "monokai-midnight",
+  "displayName": "Monokai Midnight",
+  "icon": "assets/midnight-logo.png",
+  "description": "Minimalist dark monokai-inspired vscode theme",
+  "version": "1.4.0",
+  "publisher": "syrizaldev",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Syahrizal"
+  },
+  "galleryBanner": {
+    "theme": "dark",
+    "color": "#1a1a1a"
+  },
+  "keywords": [
+    "theme",
+    "vscode",
+    "monokai",
+    "dark-theme",
+    "color-theme",
+    "vscode-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "uiTheme": "vs-dark",
+        "label": "Monokai Midnight",
+        "path": "./theme/midnight-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syrizaldev/monokai-midnight"
+  },
+  "bugs": {
+    "url": "https://github.com/syrizaldev/monokai-midnight/issues"
+  }
 }
